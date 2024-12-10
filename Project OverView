@@ -1,0 +1,37 @@
+Power BI Project: International Cuisine Restaurant Analysis
+
+Overview
+This project is based on a quarter's worth of orders from a fictitious international cuisine restaurant.
+
+Objectives
+The project focuses on:
+Exploratory Data Analysis (EDA): Conducted using SQL Server Management Studio (SSMS)
+Visualization and Insights: Developed using Power BI
+
+EDA Process in SSMS
+Data was meticulously analyzed in SSMS, querying one table after another. This step-by-step approach facilitated comprehensive EDA, uncovering vital insights about the restaurant's operations:
+-Total Items on the Menu
+-Most/Least Expensive Item on the Menu
+-Total Number of Dishes by Each Category
+-Total Orders
+-Orders with Total Number of Items
+-Top/Least Ordered Items
+-Top 5 Orders by Money Spent
+
+Visualization and Insights in Power BI
+Power BI was instrumental in visualizing data and deriving actionable insights:
+-Average Price by Category
+-Number of Dishes by Category
+-Total Sales/Orders
+-Monthly Sales Trends
+-Top/Least Sold Items by Category
+-Item-wise Total Orders by Category
+
+DAX Measures
+Several DAX measures were created to enhance the analysis, some of them are :
+-Total Sales
+-Total Orders
+-Order Count
+
+Conclusion
+This project effectively combines the robust analytical capabilities of SSMS with the powerful visualization tools of Power BI to provide comprehensive insights into the restaurant's performance.
