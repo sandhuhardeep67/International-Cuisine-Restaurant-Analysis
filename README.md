@@ -7,5 +7,5 @@
 </a>
 </a>
 <p>
-  <img src="https://raw.githubusercontent.com/sandhuhardeep67/International-Cuisine-Restaurnat-Analysis/main/images/image1.png">
+  <img src="https://raw.githubusercontent.com/sandhuhardeep67/International-Cuisine-Restaurant-Analysis/main/images/image1.png">
 </p>
